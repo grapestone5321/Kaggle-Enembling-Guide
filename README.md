@@ -43,6 +43,13 @@ ref: https://mlwave.com/kaggle-ensembling-guide/
 
 ## 2. Stacked Generalization & Blending
 
+- Averaging prediction files is nice and easy, but it’s not the only method that the top Kagglers are using. 
+
+- The serious gains start with stacking and blending. 
+
+- Hold on to your top-hats and petticoats: Here be dragons. With 7 heads. 
+
+- Standing on top of 30 other dragons.
 
 ### Stacked generalization
 
