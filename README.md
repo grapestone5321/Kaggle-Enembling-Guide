@@ -5,7 +5,7 @@ ref: https://mlwave.com/kaggle-ensembling-guide/
 
 ## 1. Creating ensembles from submission files
 
-### Voting ensembles.
+### 1.1 Voting ensembles.
 - Error correcting codes
 
 - A machine learning example
@@ -24,12 +24,12 @@ ref: https://mlwave.com/kaggle-ensembling-guide/
 
 - Code
 
-### Averaging
+### 1.2 Averaging
 - Kaggle use: Bag of Words Meets Bags of Popcorn
 
 - Code
 
-### Rank averaging
+### 1.3 Rank averaging
 - Historical ranks.
 
 - Kaggle use case: Acquire Valued Shoppers Challenge
